@@ -28,5 +28,6 @@ int main(void)
 	    PORTA = 0x8c; // P
 	    _delay_ms(5);
     }
+	return 0;
 }
 
